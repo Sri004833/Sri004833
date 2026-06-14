@@ -15,11 +15,11 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<details>
+```about
 
 > Hi, I'm **Srikanth V**, a B.Tech Information Technology student with a strong passion for software development, web technologies, and emerging fields like Generative AI. I enjoy transforming ideas into practical applications by building responsive websites, full-stack web applications, and AI-powered solutions. My technical skills include Python, JavaScript, React, Node.js, Flask, MongoDB, and MySQL, and I am continuously expanding my knowledge in the MERN stack and cloud deployment. I enjoy solving real-world problems through code, learning new technologies, and collaborating on innovative projects. My goal is to grow into a skilled software engineer who creates impactful, scalable, and user-focused digital solutions while embracing continuous learning and improvement. 🚀
 
-</details>
+```
 
 <br clear="right"/>
 
