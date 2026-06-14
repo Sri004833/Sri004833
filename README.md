@@ -15,7 +15,8 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<pre><code class="language-python">class Srikanth:
+<pre><code class="language-python">
+class Srikanth:
     def __init__(self):
         self.name = "Srikanth V"
         self.location = "Tamil Nadu, India 🇮🇳"
