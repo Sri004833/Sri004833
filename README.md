@@ -15,32 +15,11 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<pre><code class="language-python">
-class Srikanth:
-    def __init__(self):
-        self.name = "Srikanth V"
-        self.location = "Tamil Nadu, India 🇮🇳"
-        self.degree = "B.Tech - Information Technology (2022-2026)"
-        self.stack = {
-            "languages": ["Python", "JavaScript", "HTML", "CSS"],
-            "frameworks": ["Flask", "React", "Node.js", "Express"],
-            "databases": ["MongoDB", "MySQL"],
-            "tools": ["Git", "GitHub", "VS Code", "Jupyter Notebook", "Vercel"]
-        }
-        self.currently_learning = [
-            "Generative AI",
-            "MERN Stack",
-            "Cloud Deployment"
-        ]
-        self.fun_fact = "Won a football trophy long before my first hackathon 🏆⚽"
+<details>
 
-    def motto(self):
-        return "Learn, Build, Debug, Repeat 🔁"
+> Hi, I'm **Srikanth V**, a B.Tech Information Technology student with a strong passion for software development, web technologies, and emerging fields like Generative AI. I enjoy transforming ideas into practical applications by building responsive websites, full-stack web applications, and AI-powered solutions. My technical skills include Python, JavaScript, React, Node.js, Flask, MongoDB, and MySQL, and I am continuously expanding my knowledge in the MERN stack and cloud deployment. I enjoy solving real-world problems through code, learning new technologies, and collaborating on innovative projects. My goal is to grow into a skilled software engineer who creates impactful, scalable, and user-focused digital solutions while embracing continuous learning and improvement. 🚀
 
-
-me = Srikanth()
-print(me.motto())</code></pre>
-```
+</details>
 
 <br clear="right"/>
 
